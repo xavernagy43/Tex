@@ -1,0 +1,117 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.30)  8 SEP 2022 15:28
+entering extended mode
+**"./1c ora.tex"
+(1c ora.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27>
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/base\bk10.clo
+File: bk10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/07/22 3.63 The Babel package
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/07/22 3.63 Babel common definitions
+\babel@savecnt=\count191
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count192
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/babel-hungarian\magyar.l
+df
+Language: magyar 2019/01/14 v1.5c Magyar (Hungarian) support for babel
+Package babel Info: Making ` an active character on input line 2819.
+\c@footnote@add=\count193
+\c@footnote@ch=\count194
+)) (C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/base\t1enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box50
+) (1c ora.aux)
+\openout1 = `"1c ora.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+LaTeX Info: Redefining \cal on input line 583.
+LaTeX Info: Redefining \mit on input line 584.
+)
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 8
+.
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
+2.
+
+(C:\Users\Diak\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [1
+
+
+
+{C:/Users/Diak/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (1c ora.aux) ) 
+Here is how much of TeX's memory you used:
+ 2327 strings out of 478927
+ 43315 string characters out of 2853009
+ 351278 words of memory out of 3000000
+ 20235 multiletter control sequences out of 15000+600000
+ 407491 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,5n,52p,264b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <
+C:\Users\Diak\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1440.
+pk> <C:\Users\Diak\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc
+1440.pk> <C:\Users\Diak\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecrm1440.pk> <C:\Users\Diak\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\ectt2488.pk>
+Output written on "1c ora.pdf" (1 page, 25928 bytes).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

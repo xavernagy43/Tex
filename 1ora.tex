@@ -1,0 +1,46 @@
+\documentclass{article}
+\usepackage[magyar]{babel}
+\frenchspacing
+\usepackage{t1enc}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{blindtext}
+\usepackage{hulipsum}
+\usepackage{lipsum}
+\title{Dokumentum}
+\author{Nagy Xaver}
+\date{\today}
+\begin{document}
+\today
+
+\texttt{\textbf{Typewriter és nagybetű}}
+
+\textit{\textsc{Kiskapitalis es italic}}
+
+\textsl{\textsf{Slanted és sans serif}}
+
+\textit{\emph{Tesztszöveg}}
+
+\textbf{\emph{Tesztszöveg}}
+
+\textsc{\emph{Tesztszöveg}}
+
+\scalebox{-1}[1]{\framebox{szöveg}}
+
+\reflectbox{\scalebox{2}[1]{szöveg}}
+
+\colorbox{black}{\textcolor{white}{Tesztszöveg}}
+
+\fcolorbox{red}{red}{Tesztszöveg}
+
+\foreignlanguage{english}{\colorbox{black}{\textcolor{white}{\blindtext}}}
+
+\begin{flushright}
+\foreignlanguage{magyar}{\hulipsum[1]}
+\end{flushright}
+
+\linespread{1.6}
+\foreignlanguage{latin}{\lipsum[1]}
+\linespread{1}
+
+\end{document}
